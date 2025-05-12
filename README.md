@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfarhanaaktersh&label=Profile%20views&color=0e75b6&style=flat" alt="mstfarhanaaktersh" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+
 <a href="https://www.linkedin.com/mstfarhanaakter> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /> </a>
-</div>
+
 
 ###
 <p align="left">
