@@ -8,6 +8,14 @@
 <a href="https://www.linkedin.com/in/mstfarhanaakter/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /> </a>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shetu&show_icons=true&locale=en&layout=compact" alt="shetu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shetu&show_icons=true&locale=en" alt="shetu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shetu&" alt="shetu" /></p>
+
+
+
 ###
 <p align="left">
 </p>
