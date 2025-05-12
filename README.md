@@ -5,18 +5,20 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/mstfarhanaakter/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /> </a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shetu&show_icons=true&locale=en&layout=compact" alt="shetu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shetu&show_icons=true&locale=en" alt="shetu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shetu&" alt="shetu" /></p>
-
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+</div>
 
 ###
+<br>
+
+
+
+
+
+
+
 <p align="left">
 </p>
 
@@ -31,3 +33,6 @@
 
  <a href="" target="" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
+
+
+
