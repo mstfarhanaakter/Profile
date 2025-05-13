@@ -7,7 +7,7 @@
 <p align='center'>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20views&color=0e75b6&style=flat" alt="mstfarhanaakter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mstfarhanaakter" /> </p>
 <!--[![Github](https://img.shields.io/github/followers/mstfarhanaakter?label=Follow&style=social)](https://github.com/mstfarhanaakter)-->
 
 <div size='20px'> Hi, there! I'm <b>Farhana</b> :smile:
@@ -57,14 +57,14 @@
  
 
 <!--last part-->
-
+<div style="float:left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&locale=en&layout=compact" alt="mstfarhanaakter" /></p>
 <br>
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=mstfarhanaakter&show_icons=true&locale=en" alt="mstfarhanaakter" /></p>
 <br>
 <p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&" alt="mstfarhanaakter" /></p>
-
-
-
 </div>
+
+
+<!--</div>-->
 
