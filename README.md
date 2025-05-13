@@ -1,7 +1,3 @@
-<div>
-  <!--<img align="right" width="350" alt="wallpaper" src="2.jpg"/>-->
-
-
 
 <h1> Hey Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
