@@ -17,10 +17,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-- 🌱 I’m currently exploring_
+- 🌱 I’m currently exploring_ 
 
 
-<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<h3 align="left">🌐 Social Sites <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 
 <div align="left">
  <a href="https://www.linkedin.com/in/mstfarhanaakter/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /> </a>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="mstfarhanaakter" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&theme=tokyonight&layout=compact" alt="mstfarhanaakter" />
   </td>
 </tr>
 </table>
