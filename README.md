@@ -70,13 +70,13 @@
 
   </td>
   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&" alt="mstfarhanaakter" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
    
   </td>
 </tr>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mstfarhanaakter" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="mstfarhanaakter" />
   </td>
 </tr>
 </table>
