@@ -1,10 +1,12 @@
 
+<div>
+  <img align="right" width="375" alt="wallpaper" src="https://i.imgur.com/ccifEY0.png"/>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=mstfarhanaakter.mstfarhanaakter)
+
 [![Github](https://img.shields.io/github/followers/mstfarhanaakter?label=Follow&style=social)](https://github.com/mstfarhanaakter)
 
 <div size='20px'> Hi, there! I'm <b>Farhana</b> :smile:
@@ -47,6 +49,6 @@
 
  <a href="" target="" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
-
+</div>
 
 
