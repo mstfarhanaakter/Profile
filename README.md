@@ -54,17 +54,30 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>-->
  </p>
 
- 
+ <h1></h1>
 
 <!--last part-->
-<div style="float:left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&locale=en&layout=compact" alt="mstfarhanaakter" /></p>
-<br>
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=mstfarhanaakter&show_icons=true&locale=en" alt="mstfarhanaakter" /></p>
-<br>
-<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&" alt="mstfarhanaakter" /></p>
-</div>
+
+
 
 
 <!--</div>-->
+
+<table>
+<tr>
+  <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=mstfarhanaakter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mstfarhanaakter" />
+
+  </td>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&" alt="mstfarhanaakter" />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mstfarhanaakter" />
+  </td>
+</tr>
+</table>
+</section>
 
