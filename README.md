@@ -60,7 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstfarhanaakter&show_icons=true&locale=en&layout=compact" alt="mstfarhanaakter" /></p>
 <br>
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=mstfarhanaakter&show_icons=true&locale=en" alt="mstfarhanaakter" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=mstfarhanaakter&show_icons=true&locale=en" alt="mstfarhanaakter" /></p>
 <br>
 <p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&" alt="mstfarhanaakter" /></p>
 
