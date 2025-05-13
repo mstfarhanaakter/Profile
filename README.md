@@ -1,13 +1,27 @@
-<h1 align="center">Hi, I'm Farhana 👋</h1>
-<h3 align="center"> 🌱 I’m currently exploring_</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfarhanaaktersh&label=Profile%20views&color=0e75b6&style=flat" alt="mstfarhanaaktersh" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=mstfarhanaakter.mstfarhanaakter)
+[![Github](https://img.shields.io/github/followers/mstfarhanaakter?label=Follow&style=social)](https://github.com/mstfarhanaakter)
+
+<div size='20px'> Hi, there! I'm <b>Farhana</b> :smile:
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🌱 I’m currently exploring_
+
+
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
 </div>
 
 ###
@@ -22,7 +36,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
 
 <a href="" target="" rel="noreferrer">
